@@ -37,3 +37,31 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.sing-ex{
+    box-shadow: 10px 10px 40px grey;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 30px;
+    border-radius: 5px;
+}
+.sing-ex h1{
+    font-size: 40px;
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#gra{
+    border-left:8px solid;
+    border-image: linear-gradient(blue , cyan);
+    border-image-slice: 1;
+}
+#org{
+    border-left: 8px solid lightsalmon;
+}
+.foot-p{
+    text-align: center;
+    font-weight: 500;
+}
