@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.head-span{
+    color: coral;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.btn{
+    background-image:linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    text-decoration: none;
+    color: white;
+    border-radius: 8px;
+    font-weight: 700;
+}
